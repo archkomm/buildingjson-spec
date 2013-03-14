@@ -8,4 +8,4 @@ This specification attempts to create a standard for representing metadata about
 
 ## 2. File format
 
-TileJSON manifest files use the JSON format as described in RFC 4627.
+BuildingJSON manifest files use the JSON format as described in RFC 4627.
